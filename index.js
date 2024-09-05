@@ -20,4 +20,4 @@ image2.setAttribute("src", randomImage2);
 
 var date = new Date();
 var year = date.getFullYear();
-document.querySelector("footer").innerHTML = "&copy Adarsh Sathian " + year + "🎲";
+document.querySelector("footer").innerHTML = "Adarsh Sathian " + year + "🎲";
